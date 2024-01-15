@@ -7,6 +7,14 @@
 
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+![Architecture Diagram](../sample_screenshots/Architecture%20Diagram.png)
+* Authentication (optional) - not authorized
+* Auto ML experiment - upload Dataset, create compute cluster, use Auto ML classification and define parameters
+* Deploy the best model - Post completion of the Auto ML experinment, deploy the best mode
+* Enable logging/ Swagger Documentation - Enable application insights and setup Swagger to view API details
+* Consume model endpoint/ Benchmarking - Consume model endpoint, perform benchmarking
+* Create and publish a pipleline - 
+* Documentation - Finish documentation
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
