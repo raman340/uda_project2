@@ -36,6 +36,7 @@ Use Azure to configure a cloud-based machine learning production model utilizing
 
   Azure ML Pipeline
   ![Azure ML Pipeline](../sample_screenshots/AzureML%20Scheduled%20Run.png)
+  ![Azure ML Pipeline](../sample_screenshots/Dataset%20within%20AutoML.png?raw=true)
   
   Pipeline Completed
   ![Pipeline completed](../sample_screenshots/Pipeline%20Complete.png)
@@ -49,14 +50,12 @@ Use Azure to configure a cloud-based machine learning production model utilizing
   Pipeline Jobs
   ![Pipeline jobs](../sample_screenshots/Pipeline%20Jobs.png)
 
-  Piepline Endpoints
-  ![Pipeline endpoints](../sample_screenshots/Pipeline%20Endpoint.png)
-
   Pipeline run details
   ![Run details](../sample_screenshots/NB%20Run%20Details%20Step%20Run.png)
 
   Pipeline run details - Azure ML Studio
   ![Pipeline run details](../sample_screenshots/ML%20Studio%20Pipeline%20Run.png)
+
   
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
