@@ -23,7 +23,8 @@ Use Azure to configure a cloud-based machine learning production model utilizing
   ![Best model](../sample_screenshots/Best%20Model.png)
 * Best model - stats
   ![Best model stats](../sample_screenshots/Best%20Model%20Stats.png)
-* Deploy the best model, enable application insights
+* Deploy the best model, enable logging and application insights
+  ![Logging](../sample_screenshots/logspy.png?raw=true)
   ![Model endpoint with application insghts](../sample_screenshots/Application%20Insights.png)
 * Setup Swagger for the APIs
   ![Swager](../sample_screenshots/Swagger.png)
@@ -58,7 +59,11 @@ Use Azure to configure a cloud-based machine learning production model utilizing
 
   
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+[Screen Recording](https://github.com/raman340/uda_project2/blob/master/starter_files/Project%202.mp4).
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+* Dataset analysis: Data Imbalance was detected due to higher number of no values as compared to yes
+  ![Class imbalance](../sample_screenshots/Data%20Imbalance.png)
+
+* Dataset: Top 4 features
+  ![Top 4 features](../sample_screenshots/Top%204%20Features.png?raw=true)
