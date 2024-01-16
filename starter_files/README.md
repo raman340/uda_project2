@@ -59,7 +59,8 @@ Use Azure to configure a cloud-based machine learning production model utilizing
 
   
 ## Screen Recording
-[Screen Recording](https://github.com/raman340/uda_project2/blob/master/starter_files/Project%202.mp4).
+Please download/ view the mp4 screen recording from:
+[Screen Recording](https://github.com/raman340/uda_project2/blob/master/starter_files/Project%202.mp4)
 
 ## Standout Suggestions
 * Dataset analysis: Data Imbalance was detected due to higher number of no values as compared to yes
