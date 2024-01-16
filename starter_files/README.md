@@ -63,7 +63,7 @@ Please download/ view the mp4 screen recording from:
 [Screen Recording](https://github.com/raman340/uda_project2/blob/master/starter_files/Project%202.mp4)
 
 ## Standout Suggestions
-* Dataset analysis: Data Imbalance was detected due to higher number of no values as compared to yes
+* Dataset analysis: Data Imbalance was detected due to higher number of no values as compared to yes. Having more complete dataset might help with model accuracy.
   ![Class imbalance](../sample_screenshots/Data%20Imbalance.png)
 
 * Dataset: Top 4 features
