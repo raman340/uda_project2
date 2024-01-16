@@ -66,5 +66,5 @@ Please download/ view the mp4 screen recording from:
 * Dataset analysis: Data Imbalance was detected due to higher number of no values as compared to yes. Having more complete dataset might help with model accuracy.
   ![Class imbalance](../sample_screenshots/Data%20Imbalance.png)
 
-* Dataset: Top 4 features
+* Dataset: Top 4 features. Proper Feature selection is critical and requires domain knowledge. Azure does do a good job with trying to identify the top features.
   ![Top 4 features](../sample_screenshots/Top%204%20Features.png?raw=true)
